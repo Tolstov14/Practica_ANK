@@ -1,0 +1,10 @@
+C:\Users\Антон\Desktop\pract1\pract1\bin\Release\pract1.exe.config
+C:\Users\Антон\Desktop\pract1\pract1\bin\Release\pract1.exe
+C:\Users\Антон\Desktop\pract1\pract1\bin\Release\pract1.pdb
+C:\Users\Антон\Desktop\pract1\pract1\obj\Release\pract1.csprojAssemblyReference.cache
+C:\Users\Антон\Desktop\pract1\pract1\obj\Release\pract1.Form1.resources
+C:\Users\Антон\Desktop\pract1\pract1\obj\Release\pract1.Properties.Resources.resources
+C:\Users\Антон\Desktop\pract1\pract1\obj\Release\pract1.csproj.GenerateResource.cache
+C:\Users\Антон\Desktop\pract1\pract1\obj\Release\pract1.csproj.CoreCompileInputs.cache
+C:\Users\Антон\Desktop\pract1\pract1\obj\Release\pract1.exe
+C:\Users\Антон\Desktop\pract1\pract1\obj\Release\pract1.pdb
